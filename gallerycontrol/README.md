@@ -156,9 +156,9 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
     }
 }
 
-Developed by: Rajeshwar S
+Developed by: Vasanthan A
 
-Registeration Number : 212220220033
+Registeration Number : 212220220052
 
 ## OUTPUT
 ![Screenshot (249)](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/b6e6dcfc-2d63-4f12-9c71-7c17c05e434e)
