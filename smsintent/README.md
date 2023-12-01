@@ -228,9 +228,9 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 
 
-Developed by: Vasanthan A
+Developed by: Mohammed Shaheem Adnan S
 
-Registeration Number : 212220220052
+Registeration Number : 212220220026
 
 ## OUTPUT
 ![Screenshot (218)](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/76df3dce-acf4-4517-b419-5645403729b0)
